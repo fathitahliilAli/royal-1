@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier , sans-serif;
+}
+  /*................header*/
+ header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    height: 150px;
+    border-bottom: 2px solid rgb(129, 118, 118);
+    
+    margin: 0px 80px;
+ }
+  .navigation{
+   
+  }
+ header img{
+    height: 100px;
+}
+
+ /*................section*/
+ section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 80px;
+    border-bottom: 2px solid rgb(129, 118, 118);
+ }
+ 
+ .age {
+    font-size: 1.2rem;
+    padding-right: 200px;
+    
+    height: 100px;
+   padding-top: 10px;
+
+ }
+ .para{
+    font-size: 1.2rem;
+ }
+
+ /*...............soomalia*/
+ .somaliya table{
+   border-collapse: collapse;
+   margin: 0px 80px;
+
+ }
+ .somaliya th {
+   padding: 8px 40px;
+   text-align: left;
+   border-bottom: 2px solid black;
+ }
+ .somaliya td {
+   padding: 8px 40px;
+   text-align: left;
+   border-bottom: 2px solid black;
+ }
+
+ 
+
+
+ /*......................sing*/
+
+ .sign{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 90px;
+}
+ span{
+   color: red;
+ }
+ .judge{
+    color: blue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+    border-bottom: dotted;
+    margin: 0px 80px;
+ }
+  .contect img{
+    
+    width: 20px;
+    height: 15px;
+
+  }
+  .contect h4{
+   text-align: center;
+   padding-top: 10px;
+  }
+  
+ 
